@@ -1,0 +1,23 @@
+"devDependencies": {
+  "@babel/core": "^7.0.0",
+  "@babel/node": "^7.0.0",
+  "@babel/plugin-proposal-decorators": "^7.0.0",
+  "@babel/preset-env": "^7.0.0",
+  "@babel/preset-react": "^7.0.0",
+  "babel-loader": "^8.0.2",
+  "babel-plugin-transform-class-properties": "^6.24.1",
+  "css-loader": "^1.0.0",
+  "node-sass": "^4.9.3",
+  "react": "^16.4.2",
+  "react-dom": "^16.4.2",
+  "react-redux": "^5.0.7",
+  "react-router": "^4.3.1",
+  "react-router-dom": "^4.3.1",
+  "redux": "^4.0.0",
+  "sass-loader": "^7.1.0",
+  "style-loader": "^0.23.0",
+  "url-loader": "^1.1.1",
+  "webpack": "^4.17.2",
+  "webpack-cli": "^3.1.0",
+  "webpack-dev-server": "^3.1.7"
+}
